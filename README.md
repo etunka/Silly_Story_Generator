@@ -1,2 +1,2 @@
-# Silly_Story_Generator
-Created with CodeSandbox
+# silly-story-generator
+a tool that generates random silly stories
